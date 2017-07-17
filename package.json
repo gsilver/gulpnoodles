@@ -1,0 +1,10 @@
+{
+  "name": "linda-gulp-w",
+  "version": "1.0.0",
+  "description": "noodling",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "garbanzilla"
+}
